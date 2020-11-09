@@ -7,3 +7,7 @@
 6. npm run devStart 
 7. npm run peerjs
 8. Open http://127.0.0.1: 3000
+
+----
+
+###### find helpful give a start
